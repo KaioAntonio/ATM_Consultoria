@@ -20,8 +20,8 @@
 
 - `Funcionalidade 1`: Tela informação da empresa
 - `Funcionalidade 2`: Tela de serviços
-- `Funcionalidade 2a`: Tela de clientes
-- `Funcionalidade 3`: Tela de contato
+- `Funcionalidade 3`: Tela de clientes
+- `Funcionalidade 4`: Tela de contato
 
 
 
