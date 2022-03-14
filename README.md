@@ -1,11 +1,11 @@
 # atm_consultoria
 
-<h1 align="center">JokenPo</h1>
+<h1 align="center">ATM_Consultoria</h1>
 
 <h1 align="center">
     <a href="https://flutter.dev">👨‍💻 Flutter</a>
 </h1>
-<p align="center">🚀 Projeto de JokenPo feito em Flutter</p>
+<p align="center">🚀 Projeto de Consultoria feito em Flutter para testar os conhecimentos em navegação</p>
 
 <h4 align="center"> 
 	✔️ Projeto Concluído ✔️
